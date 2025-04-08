@@ -1,2 +1,1 @@
-# kjdhbadaokldna
-pala lu bau tai
+# Yang Baca Anak Asu
