@@ -1,0 +1,14 @@
+ sources: {
+        otakudesu: {
+            baseUrl: 'https://otakudesu.best/',
+            useProxy: false, // Akan menggunakan proksi
+        },
+        samehadaku: {
+            baseUrl: 'https://v1.samehadaku.how/',
+            useProxy: false, // TIDAK akan menggunakan proksi
+        },
+        anichin: {
+            baseUrl: 'https://anichin.cafe/',
+            useProxy: false, // Akan menggunakan proksi
+        },
+    }
