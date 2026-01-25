@@ -1,50 +1,7 @@
-[
-  {
-    "name": "Deni OY",
-    "amount": "Rp 100.000",
-    "numericAmount": 100000,
-    "avatar": "https://qu.ax/UtXDL.jpg"
-  },
-  {
-    "name": "Hamba Allah",
-    "amount": "Rp 25.000",
-    "numericAmount": 25000,
-    "avatar": "https://qu.ax/LFlis.jpg"
-  },
-  {
-    "name": "Jipau",
-    "amount": "Rp 25.000",
-    "numericAmount": 25000,
-    "avatar": "https://qu.ax/caqtw.jpg"
-  },
-  {
-    "name": "Yosi fb",
-    "amount": "Rp 30.000",
-    "numericAmount": 30000,
-    "avatar": "https://qu.ax/ixpzN.jpg"
-  },
-  {
-    "name": "Mas Jo",
-    "amount": "Rp 50.000",
-    "numericAmount": 50000,
-    "avatar": "https://qu.ax/fzOga.png"
-  },
-  {
-    "name": "Manusia bosan main ml",
-    "amount": "Rp 12.000",
-    "numericAmount": 12000,
-    "avatar": "https://qu.ax/pUVgB.jpg"
-  },
-  {
-    "name": "TeGaRpm",
-    "amount": "Rp 200.000",
-    "numericAmount": 200000,
-    "avatar": "https://qu.ax/WxrDg.jpg"
-  },
-  {
-    "name": "rismacell14",
-    "amount": "Rp 202.000",
-    "numericAmount": 202000,
-    "avatar": "https://qu.ax/FTpnq.jpg"
-  }
-]
+{
+  "base_url": "https://sankanime.com",
+  "api_url": "https://www.sankavollerei.com",
+  "proxy_url": "https://animproxy.sankavollerei.com",
+  "register_token_endpoint": "/api/register-token",
+  "download_endpoint": "/download/anime"
+}
