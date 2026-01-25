@@ -1,7 +1,1 @@
-{
-  "base_url": "https://sankanime.com",
-  "api_url": "https://www.sankavollerei.com",
-  "proxy_url": "https://animproxy.sankavollerei.com",
-  "register_token_endpoint": "/api/register-token",
-  "download_endpoint": "/download/anime"
-}
+{}
